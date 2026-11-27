@@ -1,0 +1,26 @@
+{
+  "name": "精準運動治療之智慧化健康管理：互動式課程指南",
+  "short_name": "精準運動指南",
+  "description": "成人與高齡體適能、代謝症候群與體重管理的運動處方互動指南，含計算工具、小測驗與個人記錄。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f7f4",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
