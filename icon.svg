@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="精準運動指南圖示">
+  <rect width="512" height="512" fill="#0f766e"/>
+  <circle cx="256" cy="256" r="168" fill="#115e59"/>
+  <!-- heartbeat trace -->
+  <path d="M112 268 H176 L200 212 L232 324 L268 180 L300 268 H400"
+        fill="none" stroke="#ffffff" stroke-width="22"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- target ring -->
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#5eead4" stroke-width="12"/>
+  <circle cx="256" cy="256" r="118" fill="none" stroke="#5eead4" stroke-width="6" opacity="0.55"/>
+</svg>
